@@ -1,1 +1,3 @@
-[![An image of @laurogripa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/laurogripa)](https://holopin.io/@laurogripa)
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWd6NTQ5ZXAzOWgwN3cxMmJ6bnl0dzc1bXd1eXB5ZG1oN2p3cW1yZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IntCEdOCoB1Pa/giphy.gif">
+</p>
