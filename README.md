@@ -7,11 +7,11 @@ Pursuing an MSc in Applied Computer Science.
 
 Maintaining:
 - Interface for the Society pallet on Kusama: https://github.com/KappaSigmaMu/kappasigmamu.github.io
-- Clinical stimulation program using eye-trackers for children with learning disabilities: https://github.com/laurogripa/VMSP
+- Clinical-grade stimulation program using eye-trackers for children with learning disabilities: https://github.com/laurogripa/VMSP
 
 Built:
 - Educational platform to onboard businesses to Polkadot: https://github.com/PolkadotEducation
-- Critical scheduling system for the City of Joinville during pandemic: https://github.com/fablabjoinville/agenda-saude
+- Critical scheduling system for the City of Joinville during the pandemic: https://github.com/fablabjoinville/agenda-saude
 
 Researching:
 - Open ISAs (Instruction Set Architectures like RISC-V)
