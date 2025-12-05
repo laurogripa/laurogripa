@@ -11,7 +11,7 @@ Maintaining:
 
 Built:
 - Educational platform to onboard businesses to Polkadot: https://github.com/PolkadotEducation
-- Critical scheduling system for the City of Joinville during the pandemics: https://github.com/fablabjoinville/agenda-saude
+- Critical scheduling system for the City of Joinville during pandemic: https://github.com/fablabjoinville/agenda-saude
 
 Researching:
 - Open ISAs (Instruction Set Architectures like RISC-V)
